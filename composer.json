@@ -34,7 +34,7 @@
   "extra": {},
   "autoload": {
     "files": [
-      "gallery-metabox.php"
+      "loader.php"
     ]
   }
 }
